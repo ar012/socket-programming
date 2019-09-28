@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "Server",
+      "projectName": "socket-programming_fb77f993"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "Client",
+      "projectName": "socket-programming_fb77f993"
+    }
+  ]
+}
